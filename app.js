@@ -5,9 +5,10 @@ const express = require("express"),
 app           = express();
 
 // =================
-// APP CONFIGURATION
+// APPLICATION SETUP
 // =================
 app.set("view engine", "ejs");
+app.use(express.static(__dirname + "/public"));
 
 // ==================
 // APPLICATION ROUTES

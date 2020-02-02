@@ -1,0 +1,21 @@
+@media (min-width: 1200px) {
+    .container-fluid{
+        max-width: 1400px;
+    }
+}
+
+.navbar {
+    padding: 30px 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: 600;
+    color: rgb(18, 19, 156) !important;
+    font-size: 22px;
+}
+
+.nav-link {
+    color: #292AC1 !important;
+    font-size: 14px;
+}
