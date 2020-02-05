@@ -1,0 +1,16 @@
+.form-control {
+    border-color: rgba(18, 19, 156, 1);
+    font-family: "Poppins", sans-serif;
+    color: rgba(18, 19, 156, 1);
+    border-radius: 0px;
+    padding: 20px 10px;
+}
+
+::placeholder {
+    color: rgba(18, 19, 156, 1) !important;
+    opacity: 1;
+}
+
+#contact_button {
+    font-family: "Poppins", sans-serif;
+}
