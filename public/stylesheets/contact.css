@@ -14,3 +14,9 @@
 #contact_button {
     font-family: "Poppins", sans-serif;
 }
+
+.form-control:focus{
+    /* border-color: #cccccc; */
+    -webkit-box-shadow: rgba(18, 19, 156, 1);
+    box-shadow: none;
+}
