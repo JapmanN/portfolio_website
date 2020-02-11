@@ -17,6 +17,10 @@ app.get("/", (req, res) => {
     res.render("home");
 });
 
+app.get("*", function(req, res) {
+    res.send("Sorry, this page does not exist!");
+});
+
 // =============
 // SERVER STARUP
 // =============
