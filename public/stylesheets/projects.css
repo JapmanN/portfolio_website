@@ -1,0 +1,21 @@
+#projects {
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    display: inline-block;
+    border-bottom: 1px solid #232323;
+    margin-bottom: 1.2rem;
+}
+
+.card-title {
+    font-family: "Poppins", sans-serif;
+}
+
+.card-body {
+    font-family: "Poppins", sans-serif;
+}
+
+.project_links {
+    color: #232323;
+    font-size: 1.2rem;
+}
