@@ -7,6 +7,20 @@
     margin-bottom: 1.2rem;
 }
 
+/* .card {
+    transition: all 0.4s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+} */
+
+.card-img-top {
+    width: 100%;
+    height: 23vw;
+    object-fit: cover;
+}
+
 .card-title {
     font-family: "Poppins", sans-serif;
 }
