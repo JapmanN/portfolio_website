@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("*", function(req, res) {
-    res.send("Sorry, this page does not exist!");
+    res.render("error");
 });
 
 // =============
