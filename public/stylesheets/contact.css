@@ -1,22 +1,11 @@
-.form-control {
-    border-color: rgba(18, 19, 156, 1);
+#contact {
     font-family: "Poppins", sans-serif;
-    color: rgba(18, 19, 156, 1);
-    border-radius: 0px;
-    padding: 20px 10px;
-}
-
-::placeholder {
-    color: rgba(18, 19, 156, 1) !important;
-    opacity: 1;
+    font-weight: bold;
+    font-size: 3rem;
+    display: inline-block;
+    margin-bottom: 1.2rem;
 }
 
 #contact_button {
     font-family: "Poppins", sans-serif;
-}
-
-.form-control:focus{
-    /* border-color: #cccccc; */
-    -webkit-box-shadow: rgba(18, 19, 156, 1);
-    box-shadow: none;
 }
