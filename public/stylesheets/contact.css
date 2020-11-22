@@ -1,11 +1,16 @@
 #contact {
     font-family: "Poppins", sans-serif;
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 3.5rem;
     display: inline-block;
     margin-bottom: 1.2rem;
 }
 
 #contact_button {
+    font-family: "Poppins", sans-serif;
+    padding: 20px;
+}
+
+#contact_desc {
     font-family: "Poppins", sans-serif;
 }
