@@ -6,3 +6,7 @@
     border-bottom: 1px solid #232323;
     margin-bottom: 1.2rem;
 }
+
+.media-body {
+    font-family: "Poppins", sans-serif;
+}
