@@ -7,6 +7,19 @@
     margin-bottom: 1.2rem;
 }
 
+.blue_text {
+    color: #3030ff;
+}
+
+.arrow {
+    font-size: 30px;
+}
+
+.timeline {
+    color: #696969;
+    font-size: 16px;
+}
+
 .media-body {
     font-family: "Poppins", sans-serif;
 }
